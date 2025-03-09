@@ -1,3 +1,4 @@
 Hi!
 
-New branchs
+New branchs and learning about conflicts
+ 
